@@ -2,14 +2,14 @@
   "name": "timestamp",
   "version": "1.0.0",
   "description": "Timestamp API Project for FreeCodeCamp",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rvrvrv",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
+    "strftime": "^0.10.0"
   }
 }
