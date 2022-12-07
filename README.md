@@ -6,7 +6,7 @@ User stories:<br>
 2) If it does, it returns both the Unix timestamp and the natural language form of that date.<br>
 3) If it does not contain a date or Unix timestamp, it returns null for those properties.<br>
 Example usage:<br>
-https://timestamp-api-rv.herokuapp.com/January%2016,%202017<br>
-https://timestamp-api-rv.herokuapp.com/1484524800<br>
+https://timestamp-api-rv.onrender.com/January%2016,%202017<br>
+https://timestamp-api-rv.onrender.com/1484524800<br>
 Example output:<br>
 { "unix": 1484524800, "natural": "January 16, 2017" }
